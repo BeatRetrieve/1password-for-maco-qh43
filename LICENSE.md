@@ -1,4 +1,4 @@
-
+custom 1Password for macOS Addon | cross-device-sync + real-time-protection offers the most advanced 1Password for macOS addon, with cross-device-sync and real-time-protection.
 
 
 
